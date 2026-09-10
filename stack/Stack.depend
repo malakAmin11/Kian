@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1789070293 source:c:\users\dell\documents\code\stack\main.cpp
+	<iostream>
+	<stackArray.h>
+
+1789070320 c:\users\dell\documents\code\stack\include\stackarray.h
+	<iostream>
+
